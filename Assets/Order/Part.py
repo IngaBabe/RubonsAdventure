@@ -1,2 +1,2 @@
 from . import Menu
-from . import Tutorial
+from . import Demo

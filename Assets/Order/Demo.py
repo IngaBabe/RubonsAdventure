@@ -78,9 +78,6 @@ def Atk(u, o, cls):
                 if rkp(x+1):
                     o.hp=o.hp-(u.attack/(o.defence^2/50))
                     break
-        if kp(50):
-            cls()
-            BS(u, o)
 
 def inifight(u, o, cls):
     while True:

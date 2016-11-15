@@ -8,6 +8,6 @@ def cls():
 
 option=part.Menu.Start(cls)
 if option==49:
-    part.Tutorial.Start(cls)
+    part.Demo.Start(cls)
 elif option==50:
     exit()
